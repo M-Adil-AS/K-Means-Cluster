@@ -3,7 +3,7 @@ An unsupervised machine learning classification algorithm implemented in JavaScr
 
 Chart.js is used to visualize how K-Means algorithm works. In this project, data points have two features RGB and WGB which relate to the medical data of patients. After the algorithm has finished executing, patients are divided into different groups based on clusters.
 
-##### Demo Instructions:
+Demo Instructions:   
 Enter the value of K.          
 Press key 'Enter' to start the algorithm.    
 
