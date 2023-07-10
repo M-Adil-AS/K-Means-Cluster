@@ -5,6 +5,10 @@ Chart.js is used to visualize how K-Means algorithm works. In this project, data
 
 Deployment Link: https://m-adil-as.github.io/K-Means-Cluster
 
+Demo Instructions:
+Enter the value of K
+Press key 'Enter' to start the algorithm
+
 Demo Video:
 
 https://user-images.githubusercontent.com/115668271/196447835-612aca1d-e8d1-4d10-8632-270a14d9324b.mp4
